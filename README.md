@@ -9,7 +9,6 @@
 | 프로젝트 | 내용 | 기술 | 기간 |
 |---|---|---|---|
 | [KB TradeTwin](https://github.com/KB-TradeTwin/kb-tradetwin) | 수출 중소기업 환율·유동성 리스크 의사결정 지원 (KB국민은행 AI Challenge) | FastAPI · Next.js | 2026.07–08 |
-| [FabLens](https://github.com/DGU-FabLens/fablens) | CMP 공정 가상계측(VM)·SPC 품질 모니터링 | Python · ML | 2026.07 |
 | [VIAssist VLM](https://github.com/VIAssist-Edge/vlm) | 시각장애인 보행 안내 VLM 모듈 (Jetson) | Python · VLM · YOLO | 2026.07 |
 | [Capstone-Edge](https://github.com/Capstone-Edge) | 자연어 기반 스마트홈 AIoT 제어 — [Backend](https://github.com/Capstone-Edge/Backend) / [Frontend](https://github.com/Capstone-Edge/Frontend) | FastAPI · MySQL · WebSocket · React | 2026.04–06 |
 | [NewLearn](https://github.com/New-Learn33/Back) | AI 숏폼 영상 생성 서비스 백엔드 | FastAPI | 2026.03 |
